@@ -6,7 +6,7 @@
         <div class="border p-1">
           <p>Write a math equation Vue can evaluate.</p>
 
-          <p>{{4 + 5 }}</p>
+          <p>{{4 * 5}}</p>
         </div>
         <div class="border p-1">
           <p>

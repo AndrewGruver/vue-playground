@@ -114,7 +114,7 @@ export default {
   name: "condtional-rendering-exercise",
   data() {
     return {
-      num: 4,
+      num: 1,
       showPlayer: true,
       //add a property to set the number value here.
       player: {
